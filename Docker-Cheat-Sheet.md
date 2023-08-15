@@ -2,7 +2,7 @@
 
 | Command                                      | Description                                 |
 | -------------------------------------------- | ------------------------------------------- |
-| `sudo service docker start`                  | starts docker deamon                        |
+| `docker `sudo service docker start``         | starts docker deamon                        |
 | `sudo service docker stop`                   | stops docker deamon                         |
 | `sudo service docker status`                 | shows if docker deamon is running           |
 | `docker-compose build --no-cache`            | installs docker container using docker file |
@@ -22,5 +22,5 @@
 
 
 
-
+ d
 
